@@ -1,0 +1,6 @@
+package W3W1;
+
+
+public class StackFullException extends RuntimeException {
+
+}
